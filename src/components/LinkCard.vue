@@ -1,3 +1,3 @@
 <template>
-  <p>THis is a link card</p>
+  <p>This is a link card</p>
   </template>
