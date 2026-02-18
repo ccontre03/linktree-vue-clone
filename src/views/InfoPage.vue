@@ -4,8 +4,8 @@ import { ref } from 'vue'
 const bio = ref({
   name:"Christopher Contreras",
   avatar: "https://api.dicebear.com/9.x/adventurer/svg?seed=Milo",
-  about: 'I am a passionate full-stack developer with experience building modern web applications. I specialize in Vue.js, React, and Node.js, and i love creating beautiful user-friendly interfaces that make a difference.',
-  skills: ['Vue.js', 'React', 'Typescript', 'Node.js', 'Tailwind CSS'],
+  about: "I’m currently finishing up my Bachelor of Applied Technology in Computer and Information Technologies at South Texas College. Throughout the program, I’ve focused on building a strong foundation in software development, specifically with C#, Python, and SQL. I’ve really enjoyed the logic side of coding and am eager to take what I’ve learned in the classroom and apply it to the real-world systems",
+  skills: ['google cert', 'coursera cert', 'Python', 'JavaScript', 'Vue'],
   email: 'ccontre3@stu.southtexascollege.edu',
   location:'McAllen, TX'
 })
