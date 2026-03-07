@@ -28,6 +28,13 @@ const profile = ref({
       icon: 'calcProject',
       description:'This is my project from class',
     },
+    {
+      id: 4,
+      title: 'Expense Splitter',
+      url:'https://anime-roulette-machine.christophercontreras23.workers.dev/',
+      icon: 'Anime Roulette Machine',
+      description:'This is my project from class it helps select a new anime to watch and allows you to build a watchlist',
+    },
   ],
 
 })
