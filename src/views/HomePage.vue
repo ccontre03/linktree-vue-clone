@@ -30,9 +30,9 @@ const profile = ref({
     },
     {
       id: 4,
-      title: 'Expense Splitter',
+      title: 'Anime Roulette Machine',
       url:'https://anime-roulette-machine.christophercontreras23.workers.dev/',
-      icon: 'Anime Roulette Machine',
+      icon: 'calcProject',
       description:'This is my project from class it helps select a new anime to watch and allows you to build a watchlist',
     },
   ],
